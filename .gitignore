@@ -1,0 +1,12 @@
+/target
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Rust backups
+**/*.rs.bk
